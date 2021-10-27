@@ -37,4 +37,10 @@ python manage.py makemigrations # Générer les migrations
 python manage.py migrate # Appliquer les migrations
 ```
 
+## Démarer le serveur web Django
+
+```shell
+python manage.py runserver
+```
+
 
