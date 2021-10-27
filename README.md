@@ -20,7 +20,7 @@ python -m venv venv
 pip install django
 pip install djangorestframework
 pip install markdown
-pip install django-filters
+pip install django-filter
 pip install black
 ```
 
