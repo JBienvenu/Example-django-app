@@ -51,4 +51,9 @@ python manage.py createsuperuser
 
 vous connecter sur l'interface web à l'adresse localhost:8000/admin
 
+## Créer une app
+
+```shell
+python manage.py startapp nom_de_votre_app
+```
 
