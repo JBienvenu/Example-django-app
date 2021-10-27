@@ -43,4 +43,12 @@ python manage.py migrate # Appliquer les migrations
 python manage.py runserver
 ```
 
+## Créer le user admin
+
+```shell
+python manage.py createsuperuser
+```
+
+vous connecter sur l'interface web à l'adresse localhost:8000/admin
+
 
