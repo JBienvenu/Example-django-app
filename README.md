@@ -30,4 +30,11 @@ pip install black
 django-admin startproject votre_projet
 ```
 
+## Générer et appliquer des migrations
+
+```shell
+python manage.py makemigrations # Générer les migrations
+python manage.py migrate # Appliquer les migrations
+```
+
 
